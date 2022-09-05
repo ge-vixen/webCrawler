@@ -1,0 +1,15 @@
+C:\Users\Ge\source\repos\WebCrawler\WebCrawlerDesktop\WebCrawlerDesktop\bin\Debug\WebCrawlerDesktop.exe.config
+C:\Users\Ge\source\repos\WebCrawler\WebCrawlerDesktop\WebCrawlerDesktop\bin\Debug\WebCrawlerDesktop.exe
+C:\Users\Ge\source\repos\WebCrawler\WebCrawlerDesktop\WebCrawlerDesktop\bin\Debug\WebCrawlerDesktop.pdb
+C:\Users\Ge\source\repos\WebCrawler\WebCrawlerDesktop\WebCrawlerDesktop\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Ge\source\repos\WebCrawler\WebCrawlerDesktop\WebCrawlerDesktop\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Ge\source\repos\WebCrawler\WebCrawlerDesktop\WebCrawlerDesktop\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Ge\source\repos\WebCrawler\WebCrawlerDesktop\WebCrawlerDesktop\obj\Debug\WebCrawlerDesktop.csproj.AssemblyReference.cache
+C:\Users\Ge\source\repos\WebCrawler\WebCrawlerDesktop\WebCrawlerDesktop\obj\Debug\WebCrawlerDesktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ge\source\repos\WebCrawler\WebCrawlerDesktop\WebCrawlerDesktop\obj\Debug\WebCrawlerDesktop.Form1.resources
+C:\Users\Ge\source\repos\WebCrawler\WebCrawlerDesktop\WebCrawlerDesktop\obj\Debug\WebCrawlerDesktop.Properties.Resources.resources
+C:\Users\Ge\source\repos\WebCrawler\WebCrawlerDesktop\WebCrawlerDesktop\obj\Debug\WebCrawlerDesktop.csproj.GenerateResource.cache
+C:\Users\Ge\source\repos\WebCrawler\WebCrawlerDesktop\WebCrawlerDesktop\obj\Debug\WebCrawlerDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Ge\source\repos\WebCrawler\WebCrawlerDesktop\WebCrawlerDesktop\obj\Debug\WebCrawlerDesktop.csproj.CopyComplete
+C:\Users\Ge\source\repos\WebCrawler\WebCrawlerDesktop\WebCrawlerDesktop\obj\Debug\WebCrawlerDesktop.exe
+C:\Users\Ge\source\repos\WebCrawler\WebCrawlerDesktop\WebCrawlerDesktop\obj\Debug\WebCrawlerDesktop.pdb
